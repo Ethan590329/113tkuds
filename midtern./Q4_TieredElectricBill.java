@@ -1,3 +1,7 @@
+/*
+ * Time Complexity: O(n)
+ * 說明：每筆資料計算一次電費，總共處理 n 筆輸入。
+ */
 import java.util.*;
 
 public class Q4_TieredElectricBill {
