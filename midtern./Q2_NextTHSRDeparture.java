@@ -1,3 +1,7 @@
+/*
+ * Time Complexity: O(n)
+ * 說明：走訪陣列找出第一個大於查詢時間的車次（最多 n 次）。
+ */
 import java.util.*;
 
 public class Q2_NextTHSRDeparture {
