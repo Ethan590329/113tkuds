@@ -1,3 +1,7 @@
+/*
+ * Time Complexity: O(n)
+ * 說明：需一次線性搜尋起點與終點站在陣列中的位置。
+ */
 import java.util.*;
 
 public class Q1_THSRStopCounter {
