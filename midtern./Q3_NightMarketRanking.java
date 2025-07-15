@@ -1,3 +1,7 @@
+/*
+ * Time Complexity: O(n²)
+ * 說明：使用 Selection Sort 進行排序，內外層各一回圈。
+ */
 import java.util.*;
 
 public class Q3_NightMarketRanking {
