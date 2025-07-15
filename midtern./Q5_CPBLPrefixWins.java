@@ -1,3 +1,7 @@
+/*
+ * Time Complexity: O(n)
+ * 說明：建立 prefix sum 陣列需走訪 n 次，查詢前 k 筆時間為 O(k)。
+ */
 import java.util.*;
 
 public class Q5_CPBLPrefixWins {
